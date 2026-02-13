@@ -5,10 +5,10 @@ A script for managing WiFi
 Applicable only to Linux hosts with Network Manager installed and operational
 
 用法：
-  1.安装NetworkManager（必须）
-  2.下载仓库内的"wifi.sh
-  3.为脚本赋予运行权限
-  4.运行
+  1. 安装NetworkManager（必须）
+  2. 下载仓库内的"wifi.sh
+  3. 为脚本赋予运行权限
+  4. 运行
 
 Usage:
   1. Install NetworkManager (required)
