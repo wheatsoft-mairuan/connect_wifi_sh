@@ -9,6 +9,7 @@ Applicable only to Linux hosts with Network Manager installed and operational
   2.下载仓库内的"wifi.sh
   3.为脚本赋予运行权限
   4.运行
+
 Usage:
   1. Install NetworkManager (required)
   2. Download the "wifi.sh" file from the repository
