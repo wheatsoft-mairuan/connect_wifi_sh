@@ -1,8 +1,8 @@
 # connect_wifi_sh
 一个用于管理WiFi的脚本
-A script for managing WiFi
+ A script for managing WiFi
 仅适用于以安装并能正常运行Network Manager的linux主机
-Applicable only to Linux hosts with Network Manager installed and operational
+ Applicable only to Linux hosts with Network Manager installed and operational
 
 用法：
   1. 安装NetworkManager（必须）
